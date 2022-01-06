@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(41, 204, 204);
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+    color: #8273c7;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 30px;
+}
+
+.header_div p{
+font-size: 12px;
+letter-spacing: 2px;
+font-weight: bold;
+}
+
+.main_div{
+    background-color:rgb(27, 218, 59) ;
+    padding: 10px;
+}
+
+.header_div{
+    background-color: rgb(47, 172, 172);
+}
+
+.main_div button{
+    margin-top: 30px;
+    font-family:'Oswald', sans-serif;
+    letter-spacing: 2px;
+    width: 130px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+   background-color: #e9c10f;
+   text-align: center;
+   line-height: 3;
+   color: rgb(24, 219, 233);
+   font-weight: bold;
+}
